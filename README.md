@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gowthamkishorem
-- 👀 I’m interested in web-development and Machine Learning.
+- 👀 I’m a proficient React, Angular and Springboot Developer.
 - 🌱 I’m currently doing my MS in Computer Science at Cal State Fullerton
 - 💞️ I’m looking to collaborate on Data Science and Web-Development Projects
 - 📫 How to reach me 
