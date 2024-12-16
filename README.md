@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gowthamkishorem
-- 👀 I’m a proficient React, Angular and Springboot Developer.
-- 🌱 I’m currently doing my MS in Computer Science at Cal State Fullerton
-- 💞️ I’m looking to collaborate on Data Science and Web-Development Projects
+- 👀 I’m a proficient React, Django Developer.
+- 🌱 I am a Masters in Computer Science graduate at Cal State Fullerton
+- 💞️ I’m looking to collaborate on Data Engineering and Web-Development Projects
 - 📫 How to reach me 
 - LinkedIn: http://www.linkedin.com/in/mgk9061
 
