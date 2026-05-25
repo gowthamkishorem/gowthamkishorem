@@ -3,7 +3,7 @@
 - 🌱 I am a Masters in Computer Science graduate at Cal State Fullerton
 - 💞️ I’m looking to collaborate on Data Engineering and ML Projects
 - 📫 How to reach me 
-- LinkedIn: http://www.linkedin.com/in/mgk9061
+- gowthamkishore987@gmail.com
 
 <!---
 gowthamkishorem/gowthamkishorem is a ✨ unique ✨ repository because its `README.md` (this file) appears on my GitHub profile.
